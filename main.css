@@ -1,0 +1,11 @@
+body{
+    background-image: url('https://media.giphy.com/media/b60d0PNX0NPdS/giphy.gif');
+    background-size: cover;
+    height: 100vh;
+    padding:0;
+    margin:0;
+}
+
+#countdown {
+  font-size: 20rem;
+}
